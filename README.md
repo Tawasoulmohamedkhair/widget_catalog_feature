@@ -14,5 +14,5 @@ A Flutter mini app demonstrating a dynamic widget catalog.
 ⦁	Perfect for exploring Flutter animations and building interactive catalogs.
 Here’s a quick demo of the app:
 
-![App Demo](assets/widget.gif)
+![App Demo](assets/widgte.gif)
 

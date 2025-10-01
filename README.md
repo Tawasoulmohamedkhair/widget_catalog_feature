@@ -12,4 +12,7 @@ A Flutter mini app demonstrating a dynamic widget catalog.
 ⦁	On the other hand, sections appear sequentially for clear focus.
 
 ⦁	Perfect for exploring Flutter animations and building interactive catalogs.
+Here’s a quick demo of the app:
+
+![App Demo](assets/widget.gif)
 
